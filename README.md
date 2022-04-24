@@ -1,4 +1,4 @@
-# PORTFOLIO
+# ALPHA-ORYX
 
 This is crypto currency tracker and investment web application..
 
