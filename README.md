@@ -2,7 +2,7 @@
 
 This is crypto currency tracker and investment web application..
 
-## [Demo Link](portfolio-v1-teal.vercel.app) 🔗
+## [Demo Link](https://alpha-oryx.vercel.app/) 🔗
 
 
 ## Technologies used 🛠️
